@@ -1,5 +1,11 @@
 A repository for blacker card CAD
 
+Status: This project is on indefinite hold (what with the pandemic and having 
+	graduated). The design is in pretty much of a final form though, and 
+	I'd stand by it as a good starting point for a general utility cart
+	build. 
+	
+
 Welcome, if you are reading this then you are most likely looking to help design
 a new utility cart for blacker hoves. Welcome! In the interests of keeping the 
 cads usable, there are a few things worth keeping in mind: 
